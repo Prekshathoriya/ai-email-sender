@@ -1,5 +1,5 @@
 AI-Generated Email Sender
-Live Demo
+https://ai-email-sender-4vetocpnthajkrsgwckamr.streamlit.app/
 
 Overview
 AI-Generated Email Sender is a full-stack application built within one hour that allows users to generate, edit, and send AI-crafted emails seamlessly.
